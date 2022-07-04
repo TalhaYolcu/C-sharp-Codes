@@ -1,0 +1,15 @@
+D:\GTU\C# Codes\bin\Debug\net6.0\C# Codes.exe
+D:\GTU\C# Codes\bin\Debug\net6.0\C# Codes.deps.json
+D:\GTU\C# Codes\bin\Debug\net6.0\C# Codes.runtimeconfig.json
+D:\GTU\C# Codes\bin\Debug\net6.0\C# Codes.dll
+D:\GTU\C# Codes\bin\Debug\net6.0\C# Codes.pdb
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.csproj.AssemblyReference.cache
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.AssemblyInfoInputs.cache
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.AssemblyInfo.cs
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.csproj.CoreCompileInputs.cache
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.dll
+D:\GTU\C# Codes\obj\Debug\net6.0\refint\C# Codes.dll
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.pdb
+D:\GTU\C# Codes\obj\Debug\net6.0\C# Codes.genruntimeconfig.cache
+D:\GTU\C# Codes\obj\Debug\net6.0\ref\C# Codes.dll
